@@ -1,0 +1,15 @@
+Game 2048 is one of a popular game and this projects some what gives a glipmse of the whole game.
+I tried to make algorithm as sharp as possible covering up the edge cases as well.
+Basic Discciption of the game is given below.
+  2048 game is a addition game where two same numbers adds up when in the same column or row. Your final outcome is to make 2048 from 
+  2 4 8 16 32 64 128 256 ..... 2048
+  Keylistner is used to manipulate this game. 
+  Up-Arrow - To sum and slide all the element to the top row wise.
+  Down-Arrow - To sum and slide all the element to the bottom row wise.
+  Right-Arrow - To sum and slide all the element to the right column wise.
+  Left-Arrow - To sum and slide all the element to the left column wise.
+I also added a undo function so that an mispress can be handled.
+  Back-Space - To get the previous board of the game.
+
+
+I hope you guys will enjoy it. Reach me at @tedeastside || shivofficialdubey@gmail.com for more such projects.
